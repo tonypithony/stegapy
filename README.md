@@ -38,3 +38,8 @@ decode_text("encoded.txt", "decoded.txt", to_read)
 
 Check 'examples' folder to see another examples.
 
+
+## Sources
+
+* [Прячем сообщение в тексте [Стеганография на Python]](https://youtu.be/EV8XM-nrRL0?si=crPV2_fEV0SFKc8x)
+* [Прячем сообщение в аудио .wav [Стеганография на Python]](https://youtu.be/e4VC5nPs93Q?si=7h9Bz0_p-tZpTM6X)
